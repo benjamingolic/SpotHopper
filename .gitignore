@@ -1,0 +1,70 @@
+# Xcode specific files
+.DS_Store
+*.xcuserdata
+*.xcuserstate
+
+# Swift Package Manager
+/.build
+/Packages
+*.xcodeproj/*
+/.xcworkspace
+
+# CocoaPods
+/Pods/
+Podfile.lock
+
+# Carthage
+/Carthage/Build
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager specific
+.build/
+
+# Firebase configuration
+**/GoogleService-Info.plist
+
+# Build products
+/build/
+/DerivedData/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+
+# Obj-C/Swift specific
+*.hmap
+
+# Other sensitive files
+.env
+
+# Xcode - miscellaneous user settings
+xcuserdata/
+
+# Xcode packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Add this line to avoid checking in source code from the Swift Package Manager dependencies.
+# Packages/
+# Package.pins
+# Package.resolved
+
+# Add this line to avoid checking in source code from the Xcode workspace
+# *.xcworkspace

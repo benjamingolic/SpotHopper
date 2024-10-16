@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "SpotHopper_Shadows.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
