@@ -41,7 +41,7 @@ Check out the promo video for SpotHopper, created by [Benjamin Golić](https://g
 </div>
 
 ## Screenshots
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">   
     <img src="./Screenshots/Screen1.webp" alt="Onboarding Screen - Let's Go" width="360"/>
     <img src="./Screenshots/Screen2.webp" alt="Onboarding Screen - Let's Go" width="360"/>
     <img src="./Screenshots/Screen3.webp" alt="Onboarding Screen - Let's Go" width="360"/>
