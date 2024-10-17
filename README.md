@@ -41,11 +41,11 @@ Check out the promo video for SpotHopper, created by [Benjamin Golić](https://g
 </div>
 
 ## Screenshots
-<div style="display: flex; justify-content: space-between;">
-    <img src="./Screenshots/Screen1.webp" alt="Onboarding Screen - Let's Go" width="480"/>
-    <img src="./Screenshots/Screen2.webp" alt="Onboarding Screen - Let's Go" width="480"/>
-    <img src="./Screenshots/Screen3.webp" alt="Onboarding Screen - Let's Go" width="480"/>
-    <img src="./Screenshots/Screen4.webp" alt="Onboarding Screen - Let's Go" width="480"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="./Screenshots/Screen1.webp" alt="Onboarding Screen - Let's Go" width="360"/>
+    <img src="./Screenshots/Screen2.webp" alt="Onboarding Screen - Let's Go" width="360"/>
+    <img src="./Screenshots/Screen3.webp" alt="Onboarding Screen - Let's Go" width="360"/>
+    <img src="./Screenshots/Screen4.webp" alt="Onboarding Screen - Let's Go" width="360"/>
 </div>
 
 ## What’s Next?
