@@ -42,12 +42,10 @@ Check out the promo video for SpotHopper, created by [Benjamin Golić](https://g
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
-    <img src="./Screenshots/SpotHopper_1_Onboarding_ReadyToGo.png" alt="Onboarding Screen - Let's Go" width="180"/>
-    <img src="./Screenshots/SpotHopper_2_HomeNoFilter.png" alt="Onboarding Screen - Let's Go" width="180"/>
-    <img src="./Screenshots/SpotHopper_3_MapNoFilter.png" alt="Onboarding Screen - Let's Go" width="180"/>
-    <img src="./Screenshots/SpotHopper_4_SetFilter.png" alt="Onboarding Screen - Let's Go" width="180"/>
-    <img src="./Screenshots/SpotHopper_5_HomeWithSpot.png" alt="Onboarding Screen - Let's Go" width="180"/>
-    <img src="./Screenshots/SpotHopper_6_MapRouting.png" alt="Onboarding Screen - Let's Go" width="180"/>
+    <img src="./Screenshots/Screen1.webp" alt="Onboarding Screen - Let's Go" width="480"/>
+    <img src="./Screenshots/Screen2.webp" alt="Onboarding Screen - Let's Go" width="480"/>
+    <img src="./Screenshots/Screen3.webp" alt="Onboarding Screen - Let's Go" width="480"/>
+    <img src="./Screenshots/Screen4.webp" alt="Onboarding Screen - Let's Go" width="480"/>
 </div>
 
 ## What’s Next?
